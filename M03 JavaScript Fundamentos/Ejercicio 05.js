@@ -83,6 +83,7 @@ function esVocal(_letra) {
       return "Dato incorrecto";
    }
 }
+esVocal ("a");
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
